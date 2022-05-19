@@ -1,2 +1,2 @@
-# test-multiple-configs
-Created with CodeSandbox
+# client-js-examples
+Contains examples of how to use the client-js library
